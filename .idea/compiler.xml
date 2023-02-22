@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sr_g3_java_mini_project" />
+        <module name="SR_G3_Java_Mini_Project" />
+        <module name="Java-Mini-Project" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
